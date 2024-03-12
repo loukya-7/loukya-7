@@ -1,13 +1,20 @@
 <h2 align="left">Hi 👋! My name is  loukya</h2>
-<h2 align="left">A passionate frontend developer from India</h2>
-
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3>👩‍💻  About Me</h3>
+<h4>👨‍💻 A passionate frontend developer from India 🚀</h3>
+<h4>📱 Creating responsive and mobile-friendly websites<h3/>
+<h4>📚 I'm currently learning Frontend development</h3>
+
+
+
 
 ###
-<h2 align="left">I code with</h2>
+
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
