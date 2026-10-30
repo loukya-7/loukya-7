@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is  loukya</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3>👩‍💻  About Me</h3>
 <h4>👨‍💻 A passionate frontend developer from India 🚀</h3>
 <h4>📱 Creating responsive and mobile-friendly websites<h3/>
