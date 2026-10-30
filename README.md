@@ -3,7 +3,7 @@
 <h3>👩‍💻  About Me</h3>
 <h4>👨‍💻 A passionate frontend developer from India 🚀</h3>
 <h4>📱 Creating responsive and mobile-friendly websites<h3/>
-<h4>📚 Currently Working as jr.softwareEngineer</h3>
+<h4>📚 Currently Working as softwareEngineer</h3>
 
 
 
