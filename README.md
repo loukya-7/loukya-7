@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋! My name is  loukya</h2>
 
-<h3>👩‍💻  About Me</h3>
-<h4>👨‍💻 A passionate frontend developer from India 🚀</h3>
-<h4>📱 Creating responsive and mobile-friendly websites<h3/>
-<h4>📚 Currently Working as softwareEngineer</h3>
+### 👩‍💻 About Me
 
+- 👋 Hi, I'm a passionate **Software Engineer from India** 🇮🇳
+- 💻 Experienced in developing mobile applications using **C#, .NET MAUI
+- 📱 Passionate about building user-friendly and responsive mobile applications.
+- 🚀 Interested in learning new technologies and improving my development skills.
+- 📚 Currently working as a **Software Engineer**.
 
 
 
