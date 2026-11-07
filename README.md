@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me
 
 - 👋 I'm a passionate **Software Engineer from India** 🇮🇳
-- 💻 3.5 years of experience in **.NET MAUI Mobile Application Development**.
+- 💻 3+ years of experience in **.NET MAUI Mobile Application Development**.
 - 📱 Skilled in C#, XAML, .NET MAUI, MVVM and SQLite.
 - 🔗 Experienced in REST API integration and developing Android applications.
 - 🚀 Passionate about building scalable, responsive and user-friendly mobile applications.
